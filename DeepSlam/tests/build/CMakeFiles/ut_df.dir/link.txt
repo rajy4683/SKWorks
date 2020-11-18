@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ut_df.dir/main.o CMakeFiles/ut_df.dir/ut_decoder.o CMakeFiles/ut_df.dir/ut_cuda_utils.o CMakeFiles/ut_df.dir/ut_se3aligner.o CMakeFiles/ut_df.dir/ut_warping.o  -o ut_df  -L/root/cuda_drivers/DeepFactors/tests/build/lib lib/libgtest.a -lglog -ldf_cuda -ldf_core -lEigen3::Eigen -lVisionCore -lpthread 

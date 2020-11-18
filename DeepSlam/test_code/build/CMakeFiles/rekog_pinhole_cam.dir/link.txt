@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rekog_pinhole_cam.dir/pinhole_camera.o  -o rekog_pinhole_cam /usr/lib/x86_64-linux-gnu/libopencv_highgui.so.3.2.0 /usr/lib/x86_64-linux-gnu/libopencv_core.so.3.2.0 
