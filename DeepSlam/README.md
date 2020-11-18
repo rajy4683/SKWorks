@@ -1,6 +1,4 @@
-# SKWorks
-
-## DeepSlam
+## SkWorks Project - DeepSlam
 
 DeepSlam is a derived from ["DeepFactors"](https://github.com/jczarnowski/DeepFactors)
 
